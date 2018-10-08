@@ -54,7 +54,7 @@
     data() {
       return {
         collapsed: false,
-        adminToken: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NjQ3NjAwMTAsImlhdCI6MTUzODg0MDAxMCwic3ViIjoie1widXNlcl9pZFwiOi0xLFwibmlja25hbWVcIjpcImFkbWluXCIsXCJhdmF0YXJfdXJsXCI6XCJcIixcInJvbGVcIjoxLFwidmVyc2lvblwiOlwiMS4wLjBcIn0ifQ.f1KL_NY6snIRcl2Ez1ZPMxM0k-bF0Ixb-QWa-1GvnO0',
+        adminToken: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NjQ5MDUyNDUsImlhdCI6MTUzODk4NTI0NSwic3ViIjoie1widXNlcl9pZFwiOi0xLFwibmlja25hbWVcIjpcImFkbWluXCIsXCJhdmF0YXJfdXJsXCI6XCJcIixcInJvbGVcIjoxLFwidmVyc2lvblwiOlwiMS4wLjFcIn0ifQ.KCGJc-NqXvfJKJ-Y4dK0LZxYZoHV4iKa1Lg5LT6EyJc',
         qiniuToken: '',
         qiniuErr: false,
       }
